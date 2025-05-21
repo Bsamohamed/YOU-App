@@ -8,4 +8,7 @@
   </text>
 </svg>
 
+<img src="assets/you-badge.svg" alt="YOU badge" width="120" height="40">
+
+
 A side project for handling with a private data 
